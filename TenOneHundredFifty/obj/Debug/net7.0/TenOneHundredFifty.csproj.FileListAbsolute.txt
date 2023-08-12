@@ -1,0 +1,15 @@
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\bin\Debug\net7.0\TenOneHundredFifty.exe
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\bin\Debug\net7.0\TenOneHundredFifty.deps.json
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\bin\Debug\net7.0\TenOneHundredFifty.runtimeconfig.json
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\bin\Debug\net7.0\TenOneHundredFifty.dll
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\bin\Debug\net7.0\TenOneHundredFifty.pdb
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.csproj.AssemblyReference.cache
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.AssemblyInfoInputs.cache
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.AssemblyInfo.cs
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.csproj.CoreCompileInputs.cache
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.dll
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\refint\TenOneHundredFifty.dll
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.pdb
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\TenOneHundredFifty.genruntimeconfig.cache
+C:\Users\sarah.matta\RiderProjects\TenOneHundredFifty\TenOneHundredFifty\obj\Debug\net7.0\ref\TenOneHundredFifty.dll
